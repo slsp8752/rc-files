@@ -1,4 +1,4 @@
-# .vimrc and .bashrc files for easy transfer between machines.
+# .vimrc
 
 My custom vim rc files
 
