@@ -2,9 +2,9 @@
 
 My custom vim rc files
 
-##Notable Changes:
+## Notable Changes:
 
-###vim
+### vim
 
 ijkl used for navigation (wasd style) instead of hjkl
 
