@@ -1,26 +1,28 @@
 # .vimrc and .bashrc files for easy transfer between machines.
 
-My custom bash/vim rc files
+My custom vim rc files
 
 ##Notable Changes:
-
-###bash
-
-Modified Solarized color scheme
-
-PS1 in format [12 HOUR TIME] username: ~$
 
 ###vim
 
 ijkl used for navigation (wasd style) instead of hjkl
 
-"jj" replaces "esc"
+"jj" functions as "esc"
 
-tapstop = 4, softtabstop = 0
+tabstop = 8, shiftwidth = 4, softtabstop = 4 for python
+tabstop = 4, softtabstop = 0 for other files
 
-Ctrl+N toggles NerdTree
+auto-add python shebang
 
-"Space" replaces ":"
+Ctrl+N toggles NerdTree (Install via pathogen)
+
+auto indent is turned off when pasting into vim
+
+ctrl+i = scroll up
+ctrl+k = scroll down
+
+"Space" functions as ":"
 
 Relative line numbering
 
